@@ -1,0 +1,30 @@
+{
+  "name": "converter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.0.5",
+    "normalize.css": "^8.0.1",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "pinia": "^2.2.2",
+    "primevue": "^4.0.5",
+    "vue": "^3.4.37",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "prettier": "3.3.3",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1",
+    "vite-tsconfig-paths": "^5.0.1",
+    "vue-tsc": "^2.0.29"
+  }
+}

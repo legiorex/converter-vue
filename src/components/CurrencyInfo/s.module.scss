@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    width: 270px;
+    justify-content: space-between;
+}
+
+.currency {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: rgb(8, 109, 186);
+}

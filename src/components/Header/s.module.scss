@@ -1,0 +1,20 @@
+.header {
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonLabel {
+    text-decoration: none;
+}
+.panelHeader {
+    display: none;
+}
+
+.buttons {
+    display: flex;
+    gap: 6px;
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "components/*": ["src/components/*"],
+      "assets/*": ["./src/assets/*"],
+      "api/*": ["./src/api/*"],
+      "pages/*": ["./src/pages"],
+      "store": ["./src/store"],
+      "store/*": ["./src/store/*"],
+    }
+  }
+}
